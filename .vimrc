@@ -49,3 +49,5 @@ function Set186Options()
   set shiftwidth=4
   set tabstop=4
 endfunction
+
+set wildignore=*.swp,*.pyc,*.class,*.jar,*.gif,*.png,*.jpg
